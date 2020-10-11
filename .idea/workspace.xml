@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6d21428-17d4-4aa2-97bb-5b801b1cd3bf" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../GO" />
+  <component name="ProjectId" id="1iifn0mLIABX2sE3PQuqKhwOs5K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Goprojects\src\DataCertProject\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Goprojects\src\DataCertProject\static\js" />
+      <recent name="C:\Users\Go\src\DataCertProject\static\js" />
+      <recent name="C:\Users\Go\src\DataCertProject\static\img" />
+      <recent name="C:\Users\Go\src\DataCertProject\static\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build DataCertProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataCertProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="DataCertProject" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build DataCertProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#GOROOT" timestamp="1602415072003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1602415072003" />
+    <state x="600" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602415920157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="600" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602415920157" />
+    <state width="470" height="141" key="GridCell.Tab.0.bottom" timestamp="1602418243345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="470" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602418243345" />
+    <state width="470" height="141" key="GridCell.Tab.0.center" timestamp="1602418243344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="470" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602418243344" />
+    <state width="470" height="141" key="GridCell.Tab.0.left" timestamp="1602418243344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="470" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602418243344" />
+    <state width="470" height="141" key="GridCell.Tab.0.right" timestamp="1602418243345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="470" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602418243345" />
+    <state x="428" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602416254363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1602416254363" />
+    <state x="409" y="138" width="718" height="548" key="find.popup" timestamp="1602414935371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="138" width="718" height="548" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602414935371" />
+  </component>
+</project>
